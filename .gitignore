@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
-
+D:\vue-final\final-project\vue.config.js
+/dist/
 
 # local env files
 .env.local
